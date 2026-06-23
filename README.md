@@ -7,7 +7,7 @@
   <body style="margin: 0px; overflow: hidden">
     <a-scene vr-mode-ui="enabled: false" embedded arjs="debugUIEnabled: false">
       <a-assets>
-        <a-asset-item id="telefone" src="reieitura animada.glb"></a-asset-item>
+        <a-asset-item id="telefone" src="releituraanimada.glb"></a-asset-item>
       </a-assets>
       <a-marker preset="hiro">
         <a-entity 
